@@ -1,0 +1,15 @@
+person_id;household_id;start_date;end_date;role;leave cause
+101;3;1999;2021;child;move away
+101;4;2021;9999;single;None
+102;3;2002;9999;child;None
+103;2;1964;1985;child;move away
+103;31;1985;1995;single;new couple
+103;3;1995;9999;spouse;None
+104;1;1967;1988;child;move away
+104;32;1988;1995;single;new couple
+104;3;1995;9999;spouse;None
+105;0;1931;1953;child;move away
+105;33;1953;1960;single;new couple
+105;2;1960;9999;spouse;None
+110;99;1998;2019;child;move away
+110;100;2019;9999;single;None

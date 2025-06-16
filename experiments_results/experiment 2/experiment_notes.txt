@@ -1,0 +1,4 @@
+Experiment: experiment 2
+Notes: 
+fixed birth rate prob (divorce_multiplier) & 
+death rate (using data from initial_date only ow last years did not have any death before)

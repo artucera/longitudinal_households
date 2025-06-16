@@ -1,0 +1,10 @@
+age_diff_label;age_diff_lb;age_diff_ub;prob
+10+y older;10;200;0.086
+6-9y older;6;9;0.137
+4-5y older;4;5;0.149
+2-3y older;2;3;0.204
+same age (+/-1y);-1;1;0.285
+2-3y younger;-3;-2;0.07
+4-5 younger;-5;-4;0.033
+6-9 younger;-9;-6;0.025
+10+y younger;-200;-10;0.011

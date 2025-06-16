@@ -1,0 +1,27 @@
+person_id;name;birth;death;sex;primary_hh;ambito
+101;io;1999;9999;M;3;1
+102;clara;2002;9999;F;3;1
+103;babbo;1964;9999;M;2;1
+104;mamma;1967;9999;F;1;1
+105;nonna anna clara;1931;9999;F;0;1
+201;fl;1996;9999;F;5;2
+202;mat;1997;9999;M;6;2
+203;padre fl;1967;9999;M;24;2
+204;madre fl;1970;9999;F;25;2
+205;padre mat;1962;9999;M;26;2
+206;madre mat;1962;2019;F;27;2
+301;cate;1999;9999;F;10;3
+302;leda;1998;9999;F;10;3
+303;jp;1968;9999;M;8;3
+304;bt;1968;9999;F;9;3
+305;ceci pec;2007;9999;F;11;3
+306;matti pec;2009;9999;M;11;3
+307;pino;2006;9999;M;12;3
+308;nonna libbi;1945;9999;F;15;3
+309;pazza;1981;9999;F;17;3
+310;padre pino;1964;9999;M;19;3
+311;nonna ceci e matti;1946;9999;F;28;3
+312;nonno ceci e matti;1944;9999;M;29;3
+313;nonno pino;1937;9999;M;30;3
+207;nonna fl;1945;9999;F;31;2
+110;my future ex wife;1998;9999;F;99;0

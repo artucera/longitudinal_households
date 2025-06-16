@@ -1,0 +1,2 @@
+Experiment: experiment 4
+Notes: same as experiment 3 but here multiplier-factor = 2

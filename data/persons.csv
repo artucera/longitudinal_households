@@ -1,0 +1,26 @@
+person_id;name;hh;birth;sex;driving_licence;primary_hh;ambito;role
+101;io;4;1999;M;1;3;1;
+102;clara;3;2002;F;1;3;1;
+103;babbo;3;1964;M;1;2;1;
+104;mamma;3;1967;F;1;1;1;
+105;nonna anna clara;2;1931;F;0;0;1;
+201;fl;7;1996;F;1;5;2;
+202;mat;7;1997;M;1;6;2;
+203;padre fl;5;1967;M;1;24;2;
+204;madre fl;5;1970;F;0;25;2;
+205;padre mat;6;1962;M;1;26;2;
+206;madre mat;nan;1962;F;1;27;2;
+301;cate;14;1999;F;1;10;3;
+302;leda;13;1998;F;1;10;3;
+303;jp;11;1968;M;1;8;3;
+304;bt;12;1968;F;1;9;3;
+305;ceci pec;11;2007;F;0;11;3;
+306;matti pec;11;2009;M;0;11;3;
+307;pino;12;2006;M;0;12;3;
+308;nonna libbi;9;1945;F;1;15;3;
+309;pazza;16;1981;F;1;17;3;
+310;padre pino;18;1964;M;1;19;3;
+311;nonna ceci e matti;17;1946;F;0;28;3;
+312;nonno ceci e matti;17;1944;M;1;29;3;
+313;nonno pino;19;1937;M;0;30;3;
+207;nonna fl;25;1945;F;0;31;2;
