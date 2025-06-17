@@ -1,0 +1,4 @@
+Experiment: experiment 7
+Notes: same as experiment 6 (multiplier_factor = 2.5) but starting simulation the next year from 2010.
+We assume that the census of 2010 collects data at the end of the year 
+All actions start simulation from 2011, no difference for birth

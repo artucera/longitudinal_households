@@ -1,0 +1,6 @@
+Experiment: experiment 9
+Notes: we reverse the simulated actions (first death last births)
+new order: deaths, divorces, couples splits, marriages, new couples, kids leave, births
+all actions are simulated from 2011 onwards.
+birth starts to be simulated in 2011
+we use the best multiplier factor so far 2 from experiment 4
