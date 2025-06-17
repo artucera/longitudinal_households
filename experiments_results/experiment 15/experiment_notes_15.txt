@@ -1,0 +1,4 @@
+Experiment: 15
+Notes: same as experiment 11, kept multiplier factor to 1 
+added marriage multiplier factor, set to: 0.75, should increase prob of marriage once couple is formed
+
