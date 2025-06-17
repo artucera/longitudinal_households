@@ -1,1 +1,1 @@
-conda env create -f environment.yml to set up environment before running the notebooks
+conda env create -f env.yml >>> to set up environment before running the notebooks
