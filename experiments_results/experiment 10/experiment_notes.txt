@@ -1,0 +1,4 @@
+Experiment: experiment 10
+Notes: multiplier-factor = 1.8 
+fixed leave_cause issues for displayreturn to normal order of actions simulation (births from year 2011) 
+no longer starting simulation from year 2

@@ -1,0 +1,2 @@
+Experiment: 14
+Notes: same as experiment 10, changed the multiplier factor to 1.75 

@@ -1,2 +1,4 @@
 Experiment: experiment 3
-Notes: birth rate back to multiplier (this time * 3) but skipped first year births (we already had the new borns in the census) I output and save in the directory the files of birth simulation so that we can analyze who gives birth each year
+Notes: birth rate back to multiplier (this time * 3) 
+we skipped first year births (we already had the new borns in the census) I output and save in the 
+directory the files of birth simulation so that we can analyze who gives birth each year

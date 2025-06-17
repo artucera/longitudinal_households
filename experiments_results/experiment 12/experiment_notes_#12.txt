@@ -1,0 +1,6 @@
+Experiment: 12
+Notes: same as experiment 11 
+kept the multiplier factor to 1 
+changed start_date of household to 2010 
+we start simulate from 2011
+

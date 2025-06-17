@@ -1,0 +1,3 @@
+Experiment: 13
+Notes: same as experiment 11, changed the multiplier factor to 2
+
