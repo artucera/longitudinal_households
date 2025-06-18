@@ -1,0 +1,6 @@
+Experiment: 17
+Notes: fixed the twin probability issue (before 98.5% of births were twins, now it is 1.5%) 
+test everything standard meaning: 
+multiplier_factor = 1 
+marriage_multiplier_factor = 1 
+

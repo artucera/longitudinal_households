@@ -1,0 +1,2 @@
+Experiment: 18
+Notes: exactly the same as experiment 17 but extending the simulation to 2050
