@@ -1,0 +1,2 @@
+Experiment: 20
+Notes: exactly the same as experiment 19 testing variance of simulations

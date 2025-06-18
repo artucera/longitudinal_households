@@ -1,0 +1,4 @@
+Experiment: 19
+Notes: exactly the same as experiment 18 now starting simulation from 2011 
+assume that census is a snapshot at the end of the year or conceptually moving the end of the year to the time of the census 
+
